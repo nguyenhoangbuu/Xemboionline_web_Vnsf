@@ -1,0 +1,8 @@
+mtcnn
+opencv-python
+tensorflow
+scikit-learn
+pillow
+streamlit
+ultralytics
+
